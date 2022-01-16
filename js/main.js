@@ -26,7 +26,7 @@ rec.onend=function(){
 rec.onerror=function(){
     console.log("xatolik yuz berdi");
 }
-var recBtn=document.createElement('div  ')
+var recBtn=document.createElement('div')
 recBtn.textContent='';
 
 galasovay.addEventListener('click', ()=>{
